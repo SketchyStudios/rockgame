@@ -1,0 +1,50 @@
+h1{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.running-score {
+    display: flex;
+    justify-content: center;
+    align-content: space-between;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.player-score{
+    padding-right: 50px;
+    font-size: 20px;
+}
+
+.comp-score{
+    font-size: 20px;
+}
+
+p, h2{
+    display: flex;
+    justify-content: center;
+}
+
+html{
+    background-color: #FFc14D;
+}
+
+button{
+    font-size: 35px;
+    border-radius: 25%;
+    background-color: #b39836;
+    display: flex;
+    justify-content: space-evenly;
+    border: none;
+    padding: 10px;
+    margin: 50px;
+}
+
+.container{
+    display: flex;
+    
+}
